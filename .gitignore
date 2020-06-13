@@ -1,0 +1,17 @@
+.ided
+*/.idea
+**/.idea
+
+target
+*/target
+**/target
+
+out
+*/out
+**/out
+
+*.iml
+*/*.iml
+**/*.iml
+
+
